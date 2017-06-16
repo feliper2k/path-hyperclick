@@ -25,5 +25,8 @@
         "0.0.0": "getProvider"
       }
     }
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.0"
   }
 }
